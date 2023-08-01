@@ -80,3 +80,4 @@ func GetWeather(ip string) string {
 	return string(body)
 
 }
+
